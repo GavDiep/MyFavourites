@@ -1,0 +1,33 @@
+html {
+  background-color: lightsalmon;
+}
+
+body {
+  background-color: #a8d5e5;
+  border-radius: 20px;
+  width: 600px;
+  margin: 40px auto;
+  padding: 15px 75px 200px;
+}
+
+h2 {
+  color: rgb(212, 62, 89);
+  font-family: "Young Serif", serif;
+  margin-top: 75px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  border-radius: 20px;
+}
+
+a:hover {
+  font-weight: bolder;
+}
